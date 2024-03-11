@@ -77,8 +77,7 @@
 		</div>
 
 		<div class="row">
-			<div class="col-md-3.
-			">
+			<div class="col-md-3">
 				<!-- The sidebar -->
 				<div class="sidebar">
 				  <a class="active" href="#home">Home</a>
@@ -90,10 +89,7 @@
 				</div>
 			</div>
 			<div class="col-md-9">
-				<!-- Page content -->
-				<div class="content">
 				  @yield('content')
-				</div>
 			</div>
 		</div>	
 	</div>
